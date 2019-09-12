@@ -27,8 +27,10 @@
 
 6. 명령어로 실행합니다.
 
-7. from konlpy.tag import Mecab
+7. 설치가 완료되었다면 아래의 새로 셀을 만들어 아래의 코드를 입력하여 사용합니다.
 
-8. mecab = Mecab()
+8. from konlpy.tag import Mecab
 
-9. nouns와 같은 다양한 형태소 분석 method를 사용할 수 있습니다.
+9. mecab = Mecab()
+
+10. nouns와 같은 다양한 형태소 분석 method를 사용할 수 있습니다.
