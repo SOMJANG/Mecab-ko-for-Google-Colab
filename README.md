@@ -9,12 +9,12 @@
 ### https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/
 
 
-##1. 설치되는 mecab 버전
+## 1. 설치되는 mecab 버전
 > mecab-0.996-ko-0.9.2
 
 > mecab-ko-dic-2.1.1-20180720
 
-##2. 사용법
+## 2. 사용법
 1. ! git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git
 
 2. git clone 명령어를 통하여 저장소를 복사해옵니다.
