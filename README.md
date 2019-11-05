@@ -1,7 +1,8 @@
 # Mecab-ko-for-GoogleColab
 
-## install_mecab-ko_on_colab190912.sh은 
-## Google Colab에 은전한닢 프로젝트 Mecab-ko라이브러리 install을 도와주는 Shell Script입니다.
+![Colab에서 Mecab-ko-dic 설치를 쉽게 도와주는 Shell-Script입니다.](/images/intro.png "Optional title")
+
+
 ### 영구적인 설치가 아닙니다.
 ### 라이브러리는 새 노트를 만들때마다 다시 설치해주어야합니다.
 
@@ -15,17 +16,19 @@
 > mecab-ko-dic-2.1.1-20180720
 
 ## 2. 사용법
-1. ! git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git
+1. 초록색 Clone or download버튼을 눌러 주소를 복사합니다.
+![git clone](/images/gitclone.png "Optional title")
 
-2. git clone 명령어를 통하여 저장소를 복사해옵니다.
 
-3. cd Mecab-ko-for-Google-Colab
+2. ! git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git 명령어를 통하여 저장소를 복사해옵니다.
+![git clone](/images/gitclone.png "Optional title")
 
-4. Mecab-ko-for-Google-Colab  directory로 이동합니다.
 
-5. ! bash install_mecab-ko_on_colab190912.sh
+3. cd Mecab-ko-for-Google-Colab 하여 Mecab-ko-for-Google-Colab  directory로 이동합니다.
+![cd](/images/cd.png "Optional title")
 
-6. 명령어로 실행합니다.
+
+5. ! bash install_mecab-ko_on_colab190912.sh 명령어로 실행합니다.
 
 7. 설치가 완료되었다면 아래의 새로 셀을 만들어 아래의 코드를 입력하여 사용합니다.
 
