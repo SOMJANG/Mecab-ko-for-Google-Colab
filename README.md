@@ -1,7 +1,10 @@
 # Mecab-ko-for-GoogleColab
 
 ## install_mecab-ko_on_colab190912.sh은 
-## Google Colab에 은전한닢 프로젝트 Mecab-ko라이브러리 install을 도와주는 Shell Script입니다.
+
+![Colab에서 Mecab-ko-dic 설치를 쉽게 도와주는 Shell-Script입니다.](/images/intro.png "Optional title")
+
+
 ### 영구적인 설치가 아닙니다.
 ### 라이브러리는 새 노트를 만들때마다 다시 설치해주어야합니다.
 
