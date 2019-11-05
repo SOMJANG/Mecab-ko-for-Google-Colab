@@ -4,13 +4,13 @@
 
 
 ### 영구적인 설치가 아닙니다.
-### 라이브러리는 새 노트를 만들때마다 다시 설치해주어야합니다.
+### 새 노트를 사용할때마 새로 설치해주어야합니다.
 
 ### 은전한닢 프로젝트
 ### https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/
 
 
-## 1. 설치되는 mecab 버전
+## 1. 설치되는 Mecab-ko-dic 버전
 > mecab-0.996-ko-0.9.2
 
 > mecab-ko-dic-2.1.1-20180720
