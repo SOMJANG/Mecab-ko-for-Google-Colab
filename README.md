@@ -2,7 +2,7 @@
 
 ![Colab에서 Mecab-ko-dic 설치를 쉽게 도와주는 Shell-Script입니다.](/images/intro.png "Optional title")
 
-
+### 2020.02.03 : Ubuntu 18.04LTS에 설치시에도 활용 가능합니다.
 ### Colab에서 Mecab-ko-dic를 쉽게 설치할 수 있도록 도와주는 Shell-Script입니다.
 ### 영구적인 설치가 아닙니다.
 ### 새 노트를 사용할때마 새로 설치해주어야합니다.
