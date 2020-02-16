@@ -6,7 +6,7 @@
 
 ### Colab에서 Mecab-ko-dic를 쉽게 설치할 수 있도록 도와주는 Shell-Script입니다.
 ### 영구적인 설치가 아닙니다.
-### 새 노트를 사용할때마 새로 설치해주어야합니다.
+### 새 노트(새로운 런타임)를 사용할때마 새로 설치해주어야합니다.
 
 ### 은전한닢 프로젝트
 ### https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/
