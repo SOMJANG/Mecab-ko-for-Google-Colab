@@ -77,3 +77,5 @@ echo "Successfully Installed"
 echo "Now you can use Mecab"
 echo "from konlpy.tag import Mecab"
 echo "mecab = Mecab()"
+
+echo "사용자 사전 추가 방법 : https://bit.ly/3k0ZH53"
