@@ -8,7 +8,7 @@
 
 ### 은전한닢 프로젝트 : https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/
 
-### Colab에서 Mecab-ko-dic 사용자 사전 추가 방법 : https://bit.ly/3k0ZH53
+### 📚 Colab에서 Mecab-ko-dic 사용자 사전 추가 방법 : https://bit.ly/3k0ZH53 📚 
 
 ## 1. 설치되는 Mecab-ko-dic 버전
 > mecab-0.996-ko-0.9.2
