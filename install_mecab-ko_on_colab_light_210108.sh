@@ -73,5 +73,5 @@ echo "mecab = Mecab()"
 echo "사용자 사전 추가 방법 : https://bit.ly/3k0ZH53"
 
 echo "NameError: name 'Tagger' is not defined 오류 발생 시 런타임을 재실행 해주세요"
-echo "블로그에 해결 방법을 남겨주신 tana님 감사합니다.
+echo "블로그에 해결 방법을 남겨주신 tana님 감사합니다."
 echo "light 버전 작성 : Dogdriip님 ( https://github.com/Dogdriip )"
