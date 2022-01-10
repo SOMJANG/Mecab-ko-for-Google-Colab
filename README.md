@@ -20,30 +20,33 @@
 > mecab-ko-dic-2.1.1-20180720
 
 ## 2. 사용법
-1. 초록색 Clone or download버튼을 눌러 주소를 복사합니다.
+#### 1. 초록색 Clone or download버튼을 눌러 주소를 복사합니다.
 ![git clone](/images/copyurl.png "Optional title")
 
 
-2. ! git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git 명령어를 통하여 저장소를 복사해옵니다.
+#### 2. ! git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git 명령어를 통하여 저장소를 복사해옵니다.
 ![git clone](/images/gitclone.png "Optional title")
 
 
-3. cd Mecab-ko-for-Google-Colab 하여 Mecab-ko-for-Google-Colab  directory로 이동합니다.
+#### 3. cd Mecab-ko-for-Google-Colab 하여 Mecab-ko-for-Google-Colab  directory로 이동합니다.
 ![cd](/images/cd.png "Optional title")
 
 
-4. ! bash install_mecab-ko_on_colab190912.sh 명령어로 실행합니다.
+#### 4. bash 명령어를 활용하여 실행
+```
+!bash install_mecab-ko_on_colab_light_220111.sh
+```
 ![install](/images/install_1.png "Optional title")
 ![install](/images/install_2.png "Optional title")
 
 
-5. 설치가 완료되었다면 아래의 새로 셀을 만들어 아래의 코드를 입력하여 사용합니다.
-
-6. from konlpy.tag import Mecab
-
-7. mecab = Mecab()
+#### 5. 설치가 완료되었다면 아래의 새로 셀을 만들어 아래의 코드를 입력하여 사용합니다.
+```
+from konlpy.tag import Mecab
+mecab = Mecab()
+```
 ![install](/images/last.png "Optional title")
 
-8. nouns, morphs와 같은 다양한 형태소 분석 method를 사용할 수 있습니다.
+#### 6. nouns, morphs와 같은 다양한 형태소 분석 method를 사용할 수 있습니다.
 
 
