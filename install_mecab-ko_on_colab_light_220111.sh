@@ -61,7 +61,8 @@ echo 'make install'
 ! make install > /dev/null 2>&1
 
 echo 'bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)'
-! bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)  > /dev/null 2>&1
+#! bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)  > /dev/null 2>&1
+! bash <(curl -s https://raw.githubusercontent.com/combacsa/konlpy/master/scripts/mecab.sh)  > /dev/null 2>&1
 echo "Done"
 
 echo "Successfully Installed"
@@ -75,3 +76,4 @@ echo "사용자 사전 추가 방법 : https://bit.ly/3k0ZH53"
 echo "NameError: name 'Tagger' is not defined 오류 발생 시 런타임을 재실행 해주세요"
 echo "블로그에 해결 방법을 남겨주신 tana님 감사합니다."
 echo "light 버전 작성 : Dogdriip님 ( https://github.com/Dogdriip )"
+echo "문제를 해결해주신 combacsa님 감사합니다."
