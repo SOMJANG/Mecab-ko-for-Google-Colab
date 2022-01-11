@@ -60,9 +60,10 @@ echo 'make'
 echo 'make install'
 ! make install > /dev/null 2>&1
 
-echo 'bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)'
+echo 'bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/v0.6.0/scripts/mecab.sh)'
+echo 'https://github.com/konlpy/konlpy/issues/395#issue-1099168405 - 2022.01.11'
 #! bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)  > /dev/null 2>&1
-! bash <(curl -s https://raw.githubusercontent.com/combacsa/konlpy/master/scripts/mecab.sh)  > /dev/null 2>&1
+! bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/v0.6.0/scripts/mecab.sh)  > /dev/null 2>&1
 echo "Done"
 
 echo "Successfully Installed"
