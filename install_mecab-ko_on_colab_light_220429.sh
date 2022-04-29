@@ -66,6 +66,9 @@ echo 'https://github.com/konlpy/konlpy/issues/395#issue-1099168405 - 2022.01.11'
 ! bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/v0.6.0/scripts/mecab.sh)  > /dev/null 2>&1
 echo "Done"
 
+echo "Install mecab-python"
+! pip install mecab-python > /dev/null 2>&1
+
 echo "Successfully Installed"
 
 echo "Now you can use Mecab"
