@@ -35,7 +35,7 @@
 
 #### 4. bash 명령어를 활용하여 실행
 ```
-!bash install_mecab-ko_on_colab_light_220111.sh
+!bash install_mecab-ko_on_colab_light_220429.sh
 ```
 ![install](/images/install_1.png "Optional title")
 ![install](/images/install_2.png "Optional title")
