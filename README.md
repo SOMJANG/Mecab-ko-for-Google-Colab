@@ -8,7 +8,7 @@
 
 ### 은전한닢 프로젝트 : https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/
 
-### 📚 Colab에서 Mecab-ko-dic 사용자 사전 추가 방법 : https://bit.ly/3k0ZH53 📚 
+### 📚 Colab에서 Mecab-ko-dic 사용자 사전 추가 방법 : [상세설명 바로가기](https://somjang.tistory.com/entry/Google-Colab%EC%97%90%EC%84%9C-mecab-ko-dic-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%82%AC%EC%A0%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-2023%EB%85%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B2%84%EC%A0%84) 📚 
 
 ### 업데이트 기록
 - 👏 2021년 1월 19일 Dogdriip님께서 불필요한 제거 업데이트, 설치작업 과정을 제외한 light 버전 추가 👍
