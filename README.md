@@ -14,27 +14,33 @@
 - 👏 2021년 1월 19일 Dogdriip님께서 불필요한 제거 업데이트, 설치작업 과정을 제외한 light 버전 추가 👍
 - 🐛 2022년 1월 11일 combacsa님께서 NameError: name 'Tagger' is not defined 문제 해결 👍
 - 🎩 2022년 4월 29일 mecab-python 추가 설치하여 NameError: name 'Tagger' is not defined 문제 해결
+- ✨ 2023년 7월 15일 사용 방법 업데이트
 
 ## 1. 설치되는 Mecab-ko-dic 버전
-> mecab-0.996-ko-0.9.2
-
+> mecab-0.996-ko-0.9.2<br>
 > mecab-ko-dic-2.1.1-20180720
 
 ## 2. 사용법
-#### 1. 초록색 Clone or download버튼을 눌러 주소를 복사합니다.
+#### 1. 초록색 #### 1. 초록색 <> Code 버튼을 클릭후 HTTPS 에 적혀있는 주소를 복사합니다.
 ![git clone](/images/copyurl.png "Optional title")
 
 
-#### 2. ! git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git 명령어를 통하여 저장소를 복사해옵니다.
+#### 2. 복사한 주소와 git clone 명령어를 활용하여 Colab notebook에서 다운로드 받습니다.
+```Bash
+!git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git
+```
 ![git clone](/images/gitclone.png "Optional title")
 
 
-#### 3. cd Mecab-ko-for-Google-Colab 하여 Mecab-ko-for-Google-Colab  directory로 이동합니다.
+#### 3. Mecab-ko-for-Google-Colab  directory로 이동합니다.
+```Bash
+cd Mecab-ko-for-Google-Colab
+```
 ![cd](/images/cd.png "Optional title")
 
 
 #### 4. bash 명령어를 활용하여 실행
-```
+```Bash
 !bash install_mecab-ko_on_colab_light_220429.sh
 ```
 ![install](/images/install_1.png "Optional title")
