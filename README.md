@@ -22,7 +22,7 @@
 
 ## 2. 사용법
 #### 1. 초록색 #### 1. 초록색 <> Code 버튼을 클릭후 HTTPS 에 적혀있는 주소를 복사합니다.
-![git clone](/images/copyurl.png "Optional title")
+![git clone](/images/copyurl-new.png "Optional title")
 
 
 #### 2. 복사한 주소와 git clone 명령어를 활용하여 Colab notebook에서 다운로드 받습니다.
